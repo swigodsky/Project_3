@@ -207,12 +207,12 @@ wordcloud(dsCloud, max.words = 50, random.order = FALSE, scale=c(3,.3),random.co
 ### CONCLUSIONS
 
 * Soft Skills 
-+ As one might expect, the most often referenced soft skills are Communication and Collaborative. The least often referenced soft skill out of the top seven studied here is Self Starter.
++ As one might expect, the most often referenced soft skills are Communication and Collaboration. The least often referenced soft skill out of the top seven studied here is being a Self Starter.
 
 * Computer Skills 
-+ For computer skills, Python appears the most often and is referenced nearly twice as often as R SQL is the second most often appearing computer skill.
++ For computer skills, Python appears the most often and is referenced nearly twice as often as R. SQL is the second most often appearing computer skill.
 
 * Analytical Skills
 + For analytical skills, Machine Learning is the most in demand.
 
-Our conclusion/recommendation for universities offering Data Science/Analytics programs is to focus on the skills that employers seek the most such as, Python, SQL, Machine Learning, Communication, and Teamwork. This will help prepare graduates enter the workforce promptly after graduation.
+Our conclusion/recommendation for universities offering Data Science/Analytics programs is to focus on the skills that employers seek the most such as Python, SQL, Machine Learning, Communication, and Teamwork. This will help prepare graduates to enter the workforce promptly after graduation.
